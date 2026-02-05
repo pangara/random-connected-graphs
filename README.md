@@ -1,5 +1,6 @@
 # random-connected-graphs
 To retrieve a graph:
+
 '''
 import networkx as nx
 import numpy as np
